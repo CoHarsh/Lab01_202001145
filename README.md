@@ -1,0 +1,2 @@
+# Software_Engineering_Lab02
+Identify functional and nonfunctional requirement
